@@ -1,0 +1,153 @@
+Skip to main content
+LinkedIn
+Articles
+People
+Learning
+Jobs
+Games
+Get the app
+Sign in
+Join now
+
+prem mokal
+
+prem mokal
+
+
+
+
+
+
+Student at Indian institute of technology jodhpur
+Panvel, Maharashtra, India  Contact Info
+
+
+
+
+
+
+431 followers  429 connections
+  
+See your mutual connections
+
+
+
+
+
+
+Join to view profile
+ Message
+
+
+
+
+
+
+
+GirlScript Summer of Code
+
+Indian Institute of Technology Jodhpur
+
+Personal Website 
+
+Activity
+431 followers
+Posts
+Comments
+Reactions
+prem mokalprem mokal
+prem mokal
+2mo
+
+prem mokal shared this
+🚀 Built a Neural Network from Scratch – 97% Accuracy on Breast Cancer Dataset!
+
+I challenged myself to implement a neural network using only NumPy – no TensorFlow, no PyTorch.
+
+✅ Forward & backward propagation
+✅ Custom activations: ReLU, Sigmoid
+✅ Binary Cross-Entropy loss
+✅ Trained on the Breast Cancer dataset
+
+🎯 Achieved 97% accuracy!
+
+🔍 What I learned:
+• Matrix shape debugging is painful but crucial
+• Initialization & scaling make or break training
+• Writing your own NN teaches more than using a library ever could
+
+🔗 Check it out:
+https://lnkd.in/dGJ-U96m...more
+public_profile__posts
+
+
+14
+prem mokalprem mokal
+prem mokal
+2mo
+
+prem mokal shared this
+🚀 Just completed a deep learning project for Drug–Target Interaction Prediction!
+
+In this project, I developed a hybrid model combining Graph Isomorphism Networks (GIN) and Convolutional Neural Networks (CNN) to predict the binding affinity Kd between drugs and target proteins — a crucial step in accelerating early-stage drug discovery.
+
+🔬 Key Highlights:
+
+🧪 Trained on the DAVIS dataset, a benchmark for DTI prediction.
+
+🧠 GIN was used to encode molecular structures from SMILES.
+
+🧬 CNN captured features from protein sequences.
+
+🔗 Features were concatenated and passed through dense layers to predict Kd.
+
+📊 Performance:
+
+✅ Training Accuracy: 88.8%
+
+✅ Test Accuracy: 87.8%...more
+public_profile__posts
+
+16
+3 Comments
+See all activities
+Experience
+GirlScript Summer of Code Graphic
+Contributor
+GirlScript Summer of Code
+Jul 2025 - Present 3 months
+
+Education
+Indian Institute of Technology Jodhpur Graphic
+Indian Institute of Technology Jodhpur
+Bachelor of Technology - BTech Bioengineering
+2024 - 2028
+
+n.n.paliwala new panvel
+-
+2021 - 2023
+Licenses & Certifications
+Python for Data Science, AI &amp; Development Graphic
+Python for Data Science, AI & Development
+IBM
+Issued Jun 2025
+Credential ID TMYBDHVKICZX
+See credential 
+Certificate of Participation in Micromouse Challenge of Prometeo&#39;25 Graphic
+Certificate of Participation in Micromouse Challenge of Prometeo'25
+Prometeo IIT Jodhpur
+Issued Feb 2025
+Credential ID b25e3cfa-22be-4c75-91e4-744445dbb356
+See credential 
+Certificate of Participation in Code Golf of Prometeo&#39;25 Graphic
+Certificate of Participation in Code Golf of Prometeo'25
+Prometeo IIT Jodhpur
+Issued Jan 2025
+Credential ID b707f894-9206-49d1-925a-b1c0417c6c62
+See credential 
+Projects
+Drug Target Interaction (DTI)
+Jul 2025 - Jul 2025
+Designed and implemented a deep learning model that predicts drug–target binding affinity using Graph Isomorphism Networks (GIN) and Convolutional Neural Networks (CNN). The system processes SMILES strings of molecules into graph embeddings using GIN, and protein sequences using CNNs. The embeddings are fused to predict binding strength Kd on the DAVIS benchmark dataset.
+
+Achieved 88.8% training accuracy and 87.8% test accuracy. Future work includes integrating AlphaFold embeddings and…Show more 
