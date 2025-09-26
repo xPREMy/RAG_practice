@@ -1,1 +1,1 @@
-practicing basic implementation of RAG(retrival augmented generation)
+practicing basic implementnoiceion of RAG(retrival augmented generation)
